@@ -88,10 +88,7 @@ void passw( )
       digitalWrite(8,HIGH);
       delay(1000);
       digitalWrite(8,LOW);
-      p=0;
-      c=0;
-      b=0;
-      lcd.clear();
+   
     }
     else
     {
@@ -100,11 +97,12 @@ void passw( )
       digitalWrite(9,HIGH);
       delay(1000);
       digitalWrite(9,LOW);
-      p=0;
+     
+    }
+       p=0;
       c=0;
       b=0;
       lcd.clear();
-    }
   }
   else
   {
