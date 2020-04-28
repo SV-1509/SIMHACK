@@ -1,5 +1,5 @@
 # SIMHACK
-Repository for the projects done for an online arduino hackathon 
+Repository for the projects done for an online 7 day arduino hackathon 
 
 #Links to each project <br />
 Project 1:- https://www.tinkercad.com/things/glQzIcieuM3-simhack-1 <br />
